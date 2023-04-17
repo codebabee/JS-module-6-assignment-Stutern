@@ -1,3 +1,4 @@
+// function that returns jsx version of the html code
 function HeaderElement() {
     return (
         <header>
